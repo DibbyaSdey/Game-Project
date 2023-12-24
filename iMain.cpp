@@ -1,4 +1,5 @@
 #include<iostream>
+//dibbya stutrom dey
 using namespace std;
 # include "iGraphics.h"
 int mposx,  mposy;
